@@ -1,0 +1,6 @@
+{
+  "name": "AI Expense Tracker & Data Insights",
+  "description": "A professional data-driven dashboard for tracking expenses, visualizing trends, and generating AI-powered financial insights using synthetic or user data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
